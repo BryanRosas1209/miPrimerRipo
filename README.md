@@ -6,3 +6,6 @@ por que es mi primer ripositorio
 
 # nueva acualizacion para entender los cambios
 intento ser mas rapido
+
+# este es un gran repositorio
+porque me gusta github
